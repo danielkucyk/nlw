@@ -8,7 +8,7 @@ Projeto construído no evento Next Level Week da @rocketseat.
 
 :link: [Clique aqui](https://danielkucyk.github.io/nlw_esports/) para acessar
 
-## :tools: Tecnologias
+## :hammer_and_wrench: Tecnologias
 
 - HTML
 - CSS
